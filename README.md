@@ -1,2 +1,1 @@
-# speaker
-A landing page with framer-motion
+# Fun landing pages
